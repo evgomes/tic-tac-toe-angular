@@ -1,27 +1,13 @@
-# TicTacToe
+# Tic Tac Toe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
+Simple Tic Tac Toe game built with Angular 6. It was inpired in the [introduction tutorial for React.js](https://reactjs.org/tutorial/tutorial.html).
 
-## Development server
+## Testing
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+To test the project, clone this repository and run the following commands:
+```
+npm install
+ng serve
+```
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+The server will start and you will be able to play the game navigating to `http://localhost:4200/`. If you are running the project on a Linux or MacOS environment, you may have to use `sudo` in front of the command above.
