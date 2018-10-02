@@ -1,6 +1,8 @@
-# Tic Tac Toe
+# Tic-tac-toe
 
-Simple Tic Tac Toe game built with Angular 6. It was inpired in the [introduction tutorial for React.js](https://reactjs.org/tutorial/tutorial.html).
+Simple tic-tac-toe game built with Angular 6. It was inpired in the [introduction tutorial for React.js](https://reactjs.org/tutorial/tutorial.html).
+
+![tic-tac-toe demo](https://raw.githubusercontent.com/evgomes/tic-tac-toe-angular/master/doc-images/tic-tac-toe.png)
 
 ## Testing
 
