@@ -1,0 +1,16 @@
+.board-row {
+    display: flex;
+}
+
+.players-history-board {
+    display: flex;
+}
+
+.player-data {
+    width: 400px;
+}
+
+.button {
+    padding: 10px;
+    margin-bottom: 20px;
+}
